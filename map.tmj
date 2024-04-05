@@ -275,6 +275,32 @@
          "tilecount":325,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":64,
+         "firstgid":3606,
+         "image":"tilesets\/100R_Grass_Texture.png",
+         "imageheight":2048,
+         "imagewidth":2048,
+         "margin":0,
+         "name":"100R_Grass_Texture",
+         "spacing":0,
+         "tilecount":4096,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":21,
+         "firstgid":7702,
+         "image":"tilesets\/100R_Trees1.png",
+         "imageheight":960,
+         "imagewidth":672,
+         "margin":0,
+         "name":"100R_Trees1",
+         "spacing":0,
+         "tilecount":630,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
