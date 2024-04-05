@@ -714,6 +714,32 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":25,
+         "firstgid":2956,
+         "image":"tilesets\/Batiment soip 3.png",
+         "imageheight":416,
+         "imagewidth":800,
+         "margin":0,
+         "name":"Batiment soip 3",
+         "spacing":0,
+         "tilecount":325,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":25,
+         "firstgid":3281,
+         "image":"tilesets\/Batiment ecole inge.png",
+         "imageheight":416,
+         "imagewidth":800,
+         "margin":0,
+         "name":"Batiment ecole inge",
+         "spacing":0,
+         "tilecount":325,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
